@@ -7,7 +7,7 @@ The purpose of this comprehensive report is to provide an in-depth overview of m
 The Tamagotchi app, where user can play, feed, and clean their virtual pet while keeping a close eye on the pet's health, hunger, and cleanliness status. The app aims to address this need by providing a user-friendly platform for users to care for a virtual pet on their smartphones or digital devices, mimicking the original toy's experience. 
 
 # 3. Design Considerations: 
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 - User-Centric Design: The Tamagotchi app was designed with a focus on simplicity and intuitiveness to ensure a smooth user experience. Features were prioritized based on user needs. When you go to the app the first thing to see is a warm welcome page. 
 
