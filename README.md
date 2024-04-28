@@ -12,7 +12,7 @@ The Tamagotchi app, where user can play, feed, and clean their virtual pet while
 
 - User-Centric Design: The Tamagotchi app was designed with a focus on simplicity and intuitiveness to ensure a smooth user experience. Features were prioritized based on user needs. When you go to the app the first thing to see is a warm welcome page. 
 
- I.Get Started Button: where it directs users to the second screen upon clicking. Where the user can now see the game. 
+I. Get Started Button: where it directs users to the second screen upon clicking. Where the user can now see the game. 
 
 ii. Second Screen: It’s where you see three buttons that I have incorporated representing the following actions: 1. Feed 2. Clean 3. Play. 
 
