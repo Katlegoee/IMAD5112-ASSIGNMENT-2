@@ -58,12 +58,6 @@ GitHub Badges [link] https://ileriayo.github.io/markdown-badges/ [Accessed:28 Ap
 
 Open a New Activity with a Button Click [linkhttps://www.youtube.com/watch?v=2gljhNFKimk [Accessed:28 April 2024]
 
- 
-# 7. My GitHub Link 
-
-[link] https://github.com/Katlegoee/IMAD5112-ASSIGNMENT-2 
-
-
 # 8. Video Demonstration: 
 
 App Demonstration-YouTube[link] https://youtu.be/qTWzceIqDjU
