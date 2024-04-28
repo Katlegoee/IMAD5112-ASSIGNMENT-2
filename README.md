@@ -1,4 +1,5 @@
-# IMAD5112-Assignment-2
+# Loli Your Tamagotchi App 
+![OIP](https://github.com/Katlegoee/IMAD5112-ASSIGNMENT-2/assets/162302242/55a3adc0-08ee-4a65-96fc-1b11fdf542e5)
 
 # 1. Introduction: 
 The purpose of this comprehensive report is to provide an in-depth overview of my Tamagotchi app. The report will delve into the app's purpose, design considerations, and the utilization of GitHub and GitHub Actions in the development process. 
