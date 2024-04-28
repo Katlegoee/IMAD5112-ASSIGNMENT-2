@@ -30,7 +30,7 @@ The features that were implemented for the app were implemented using Android St
 Cross-Platform Compatibility: The app was developed to be compatible with only one device and operating systems, which includes Android platforms. 
 
 # 4. Utilization of GitHub and GitHub Actions:  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 GitHub played a crucial role in the development, collaboration, and deployment of the My Tamagotchi app. Key aspects of its utilization include: 
 
